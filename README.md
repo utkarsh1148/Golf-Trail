@@ -8,12 +8,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 1) To install the dependencies, you need to ``install`` the following:
 
--python 3
--openCV-python
--numpy
--mathplotlib
--scipy
--csv
+- python 3
+- openCV-python
+- numpy
+- mathplotlib
+- scipy
+- csv
 
 2) Capture the side view of the shot.
 
@@ -29,15 +29,15 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Factors Considered
 
--Initial Speed
--Angle of projection
--Angle from Ground
--Spin of the ball
--Wind speed
--Air drag
--Magnus Effect
--Coefficient of friction of ground
--Ball Weight
+- Initial Speed
+- Angle of projection
+- Angle from Ground
+- Spin of the ball
+- Wind speed
+- Air drag
+- Magnus Effect
+- Coefficient of friction of ground
+- Ball Weight
 
 
 ## Versioning
