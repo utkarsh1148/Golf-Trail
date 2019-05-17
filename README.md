@@ -19,7 +19,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 3) Run ``final_show.py`` to get real time prediction.
 
-4) ![Side Shot](https://github.com/utkarsh1148/SIH-Project/blob/master/Capture.jpg)
+4) ![Side Shot](frame1.png)
 
 5) Mark the position of ball to create a contour over it.
 
