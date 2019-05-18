@@ -25,7 +25,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 6) Press Q to Continue.
 
-7)This would give your final predictible position of the shot
+7) This would give your final predictible position of the shot.
 
 ## Factors Considered
 
