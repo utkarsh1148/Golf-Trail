@@ -23,9 +23,15 @@ These instructions will get you a copy of the project up and running on your loc
 
 5) Mark the position of ball to create a contour over it.
 
-6) Press Q to Continue.
+6) Press 'enter' to Continue.
 
-7) This would give your final predictible position of the shot.
+7) Optical Flow would mark 3 points on the ball and track the pixel coordinates and plot the graph.
+
+ ![Graph](graph.png)
+
+8) Close that figure and you would get the final graph of the ball.
+
+9) This would give your final predictible position of the shot.
 
 ## Factors Considered
 

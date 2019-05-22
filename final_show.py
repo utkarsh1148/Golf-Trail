@@ -1,6 +1,5 @@
 import csv
-import firebase_admin
-from firebase_admin import credentials,firestore
+
 import math
 
 def get_lat_and_long(brng,d,lat1,lon1):
