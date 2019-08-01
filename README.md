@@ -19,13 +19,17 @@ These instructions will get you a copy of the project up and running on your loc
 
 3) Run ``final_show.py`` to get real time prediction.
 
- ![Side Shot](frame1.png)
+ ![Side Shot](gif1.gif)
 
 5) Mark the position of ball to create a contour over it.
 
 6) Press 'enter' to Continue.
 
-7) Optical Flow would mark 3 points on the ball and track the pixel coordinates and plot the graph.
+7) Optical Flow would mark 3 points on the ball and track the pixel coordinates. 
+
+ ![OF](gif.gif)
+ 
+8) Graph is plotted.
 
  ![Graph](graph.JPG)
 
