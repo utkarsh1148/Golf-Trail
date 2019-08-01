@@ -35,7 +35,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 8) Close that figure and you would get the final graph of the ball.
  
- ![Final Graph](fingraph.JPG)
+ ![Final Graph](gif (1).gif)
 
 9) This would give your final predictible position of the shot.
 
