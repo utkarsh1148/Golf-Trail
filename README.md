@@ -27,7 +27,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 7) Optical Flow would mark 3 points on the ball and track the pixel coordinates. 
 
- ![OF](gif.gif)
+ ![OF](gif3.gif)
  
 8) Graph is plotted.
 
