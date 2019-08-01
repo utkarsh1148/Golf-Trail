@@ -19,7 +19,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 3) Run ``final_show.py`` to get real time prediction.
 
- ![Side Shot](gif1.gif)
+ ![Side Shot](gif4.gif)
 
 5) Mark the position of ball to create a contour over it.
 
