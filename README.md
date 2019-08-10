@@ -4,7 +4,7 @@ This project focuses on predicting the final golf ball location after the ball i
 
 ## Getting Strated 
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.Some files are intentionally ommited to avoid direct copying my code. If anyone wants guidence they can mail me at utkarsh1148@gmail.com.
 
 1) To install the dependencies, you need to ``install`` the following:
 
